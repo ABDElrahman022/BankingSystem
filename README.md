@@ -73,6 +73,7 @@ This project is a **Banking System GUI Application** developed using **Java Swin
 - Error messages for invalid inputs are displayed using `JOptionPane` dialogs.
 
 ## Code Structure
+![BankingSystem UML ](https://github.com/user-attachments/assets/00e0212b-fa13-43ed-913d-51ea11c4cf2a)
 
 ### Key Classes
 

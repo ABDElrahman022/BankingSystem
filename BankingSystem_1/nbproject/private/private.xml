@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/HomeLoan.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/decorator/AccountDecorator.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/CarLoan.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/observer/Subject.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/tests/TestAccountFactory.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/CheckingAccount.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/factory/LoanFactory.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/tests/TestDecorator.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/PersonalLoan.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/Loan.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/AccountHolder.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/decorator/OverdraftAccountDecorator.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/singleton/TransactionManager.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/observer/Observer.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/factory/AccountFactory.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/tests/TestIntegration.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/Account.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/AccountSubject.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/SavingsAccount.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/decorator/PremiumAccountDecorator.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/gui/BankGUI.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/decorator/RewardsAccountDecorator.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/singleton/SessionManager.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/models/ActionLogger.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/strategy/InterestStrategy.java</file>
+            <file>file:/D:/AbdElrhaman/STUDY/Seventh%20term/Selected%20Labs%20in%20Software%20Engineering/BankingSystem_1/src/patterns/strategy/SimpleInterestStrategy.java</file>
+        </group>
+    </open-files>
+</project-private>

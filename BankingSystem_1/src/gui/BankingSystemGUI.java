@@ -40,8 +40,7 @@ public class BankingSystemGUI {
             button.setMaximumSize(new Dimension(180, 40));
             button.setAlignmentX(Component.CENTER_ALIGNMENT);
         }
-        JLabel nameLabel = new JLabel("Eng Martina ❤️");
-        nameLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
+
         
         // Add buttons to sidebar
         sidebar.add(Box.createVerticalStrut(20));
@@ -54,7 +53,6 @@ public class BankingSystemGUI {
         sidebar.add(notificationButton);
         sidebar.add(Box.createVerticalGlue());
         sidebar.add(Box.createVerticalStrut(20));
-        sidebar.add(nameLabel);
         sidebar.add(Box.createVerticalStrut(20));
 
         // Main Panel with CardLayout
@@ -69,7 +67,6 @@ public class BankingSystemGUI {
 
         accountForm.add(new JLabel("Account Type:"));
         JComboBox<String> accountTypeComboBox = new JComboBox<>(new String[]{"Savings", "Checking"});
-        accountTypeComboBox.setPreferredSize(new Dimension(100, 30));
         accountForm.add(accountTypeComboBox);
 
         accountForm.add(new JLabel("Account Holder Name:"));
@@ -78,7 +75,6 @@ public class BankingSystemGUI {
 
         accountForm.add(new JLabel("Initial Deposit:"));
         JTextField initialDepositField = new JTextField();
-        initialDepositField.setPreferredSize(new Dimension(100, 30));
         accountForm.add(initialDepositField);
 
         JButton createAccountButton = new JButton("Create Account");
